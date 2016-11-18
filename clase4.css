@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+body{
+	font-family: 'Lato', sans-serif;
+}
+
+.mono {
+	background-color: #0a3d54;
+    width: 260px;
+    height: 362px;
+    border-radius: 8px;
+
+}
+
+.ion-person-stalker{
+	font-size: 60px;
+    margin-left: 38%;
+    color: #b0dcdd;
+    margin-top: 18px;
+    display: inline-block;
+}
+
+.nombre{
+	margin-top: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 47px;
+    margin-bottom: 1px;
+}
+
+	.nombre span{
+	color: #b0dcdd;
+	font-size: 22px;
+	}
+
+	.nombre input {
+		border: none;
+		background-color: transparent;
+		color: #b0dcdd;
+	}
+
+.Contrasena{
+	margin-top: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 47px;
+}	
+
+	.Contrasena span{
+		color: #b0dcdd;
+		font-size: 22px;
+	}
+
+	.Contrasena input {
+		border: none;
+		background-color: transparent;
+		color: #b0dcdd;
+	}
+
+figure {
+    width: 180px;	
+    height: 1px;
+	background-color: #b0dcdd;
+}	
+
+.mono a{
+	background-color: #215870;
+	color: white;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 10px 35px 10px 35px;
+	margin-top: 15px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 64px;
+    font-size: 12px;
+    border-radius: 7px;
+}
+
+.RedesSociales {
+    width: 260px;
+    height: 30px;
+    background-color: #073951;
+    display: inline-block;
+    vertical-align: bottom;
+    border-radius: 0px 0px 8px 8px;
+}
